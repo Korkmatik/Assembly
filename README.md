@@ -1,4 +1,4 @@
-# Assemby
+# Assembly
 Simple x64 Linux NASM Assembly Programs
 
 # Description
